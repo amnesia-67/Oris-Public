@@ -1,0 +1,9 @@
+# Core AI & Speech
+pvporcupine==3.0.1
+pvrhino==3.0.1
+pyttsx3==2.90
+
+# Home Assistant API + environment handling
+requests>=2.31.0
+python-dotenv>=1.0.1
+
